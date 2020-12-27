@@ -1,0 +1,58 @@
+* {
+    color: rgb(218, 40, 173);
+}
+
+
+
+h1 {
+    color: aquamarine;
+   background-color:#ff3333;
+   width: 500px;
+}
+
+.p-color {
+    color: rgb202, 101, 80);
+}
+
+
+
+body {
+    background-color: gold;
+}
+
+
+
+nav ol li {
+    display:inline ;
+}
+
+h2 {
+    background-color: aliceblue;
+
+}
+
+
+section {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+nav ol li {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+ ul li {
+     background-color: blanchedalmond;
+     width: 500px;
+ }
+
+ ul li {
+     margin-top: 15px;
+     margin-bottom: 15px;
+    border-style: double;
+     border-width: 10px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     padding-right: 15px;
+     padding-left: 15px;
+ }
