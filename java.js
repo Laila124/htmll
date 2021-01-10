@@ -21,3 +21,47 @@ if (notcorrect){
 if (number != 10){
     alert (number)
 }
+function checknum() {
+
+    if ("text == pepsi"){
+    alert ("yes is pepsi");
+}else {
+    alert ("text is not pepsi");
+}
+}
+checknum();
+
+function hi(params) {
+    
+    if(hi == "hello"){
+        alert("hello laila");
+    } else {
+        alert ("you are not laila");
+    }
+}
+hi("hello");
+
+var name = prompt("what is your name");
+function printname (name) {
+    alert ("hello"+ name);
+}
+function checkpass(pass) {
+    if (pass == 1234){
+        alert ("logged in");
+        printname(secondname);
+    }else{
+        alert("correct pass");
+    }
+    
+}
+
+
+
+var secondname = prompt ("what is your name");
+var pass = prompt ("enter your pass");
+checkpass(pass);
+
+printname(name);
+
+
+
