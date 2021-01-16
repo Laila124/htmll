@@ -62,6 +62,14 @@ var pass = prompt ("enter your pass");
 checkpass(pass);
 
 printname(name);
+console.log (number);
+console.log("nots to see were you are");
+
+
+for (var i =0; i < 10; i++){
+    console.log (i);
+}
+
 
 
 
